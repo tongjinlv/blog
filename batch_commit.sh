@@ -4,9 +4,6 @@
 batch_size=2
 commit_message="Batch commit"
 source_directory="./"
-
-git add index.html batch_commit.sh .gitignore src/list.txt
-
 # 切换到当前目录
 cd "$(dirname "$0")" || exit
 
@@ -15,8 +12,6 @@ commit_files() {
     git commit -m "$commit_message"
     git push
 }
-
-git add index.html
 
 # 遍历目录下的文件
 file_count=0
