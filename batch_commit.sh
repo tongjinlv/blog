@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 设置变量
-batch_size=2
+batch_size=20
 commit_message="Batch commit"
 source_directory="./"
 # 切换到当前目录
