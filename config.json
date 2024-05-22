@@ -26,10 +26,10 @@
             "width" : 0
         },
         "Wechart" : {
-            "icon_src" : "images/wechart.svg",
-            "href" : "",
-            "hidden_img" : "images/wechart-qrcode.jpg",
-            "width" : 0
+            "icon_src": "images/wechart.svg",
+            "href": null,
+            "hidden_img": "images/wechart-qrcode.jpg",
+            "width": 130
         },
         "QQ" : {
             "icon_src" : "images/QQ.svg",
