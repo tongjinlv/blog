@@ -26,9 +26,9 @@
             "width" : 0
         },
         "Home" : {
-            "icon_src" : "images/home.svg",
+            "icon_src" : "images/wechart.svg",
             "href" : "http//blog.trtos.com",
-            "hidden_img" : null,
+            "hidden_img" : "images/wechart.svg",
             "width" : 0
         }
     }
