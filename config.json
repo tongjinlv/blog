@@ -4,7 +4,7 @@
     "client_id": "Ov23lipaLe7mYHodnXMD",
     "client_secret": "c64659682d0ba54f87a2911bf57d52cebf165a59",
     "title": "blog",
-    "instruction": "基于GitHub issue的个人博客模板",
+    "instruction": "基于GitHub issue的个人博客模板测试",
     "server_link": "http://www.trtos.com/php/gh-oauth-server.php",
     "filter": {
         "creator": "all",
