@@ -28,12 +28,12 @@
         "Wechart" : {
             "icon_src" : "images/wechart.svg",
             "href" : "",
-            "hidden_img" : null,
+            "hidden_img" : "images/avatar.jpg",
             "width" : 0
         },
         "QQ" : {
             "icon_src" : "images/QQ.svg",
-            "href" : "http//blog.trtos.com",
+            "href" : "",
             "hidden_img" : null,
             "width" : 0
         }
