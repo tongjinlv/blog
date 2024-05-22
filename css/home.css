@@ -5,9 +5,9 @@
   background:url('../images/page_background.jpg') no-repeat 5% 60%;
 }
 .navi-button {
-    font-size: .8rem;
-    color: #7f8c8d;
-    border: 1px solid rgba(127,140,141,0.6);
+    font-size: 1.8rem;
+    color: #ecf0f1;
+    border: 2px solid rgba(127,140,141,0.6);
     line-height: 35px;
     border-radius: 4px;
     display: block;
@@ -86,7 +86,7 @@ a {
     color: #34495e;
 }
 .main_content>li .excerpt, .main_content>li .excerpt *, .main_content>li .no-title {
-    font-size: .9rem;
+    font-size: 1.5rem;
     color: #7f8c8d;
     line-height: 1.5;
     margin: 0;
@@ -96,7 +96,7 @@ a {
     border: 1px solid #ecf0f1;
     border-width: 1px 0;
     padding: 22px 10px;
-    font-size: .75rem;
+    font-size: 1.5rem;
     color: #7f8c8d;
 }
 .main_content>li .meta>li {
