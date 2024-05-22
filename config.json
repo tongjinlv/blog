@@ -25,10 +25,16 @@
             "hidden_img" : null,
             "width" : 0
         },
-        "Home" : {
+        "Wechart" : {
             "icon_src" : "images/wechart.svg",
+            "href" : "",
+            "hidden_img" : null,
+            "width" : 0
+        },
+        "QQ" : {
+            "icon_src" : "images/QQ.svg",
             "href" : "http//blog.trtos.com",
-            "hidden_img" : "images/wechart.svg",
+            "hidden_img" : null,
             "width" : 0
         }
     }
