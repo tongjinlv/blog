@@ -31,11 +31,11 @@
             "hidden_img": "images/wechart-qrcode.jpg",
             "width": 130
         },
-        "QQ" : {
-            "icon_src" : "images/QQ.svg",
-            "href" : "",
-            "hidden_img" : null,
-            "width" : 0
+        "QQ": {
+            "icon_src": "images/QQ.svg",
+            "href": "tencent://message/?uin=179990830",
+            "hidden_img": null,
+            "width": 0
         }
     }
 }
