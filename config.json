@@ -21,7 +21,13 @@
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "https://github.com/tongjinlv/blog",
+            "href" : "https://github.com/tongjinlv/blog.github.io",
+            "hidden_img" : null,
+            "width" : 0
+        },
+        "Home" : {
+            "icon_src" : "images/home.svg",
+            "href" : "http//blog.trtos.com",
             "hidden_img" : null,
             "width" : 0
         }
